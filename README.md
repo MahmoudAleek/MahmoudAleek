@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmud
 
-<!--
-**MahmoudAleek/MahmoudAleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack Developer | 📍 Sofia, Bulgaria  
+🚀 Passionate about building scalable systems with **Laravel, Next.js, TypeScript**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, Zustand, React Query
+- **Backend:** Laravel, PHP, MySQL, REST APIs
+- **DevOps:** Linux, Nginx, GitHub Actions
+- **Other:** JWT, NextAuth, Stripe integration
+
+---
+
+## 📌 Featured Projects
+- 🎫 [Verify First](#) – Education background verification system  
+- 🏥 [SyraMed](#) – Medical appointment booking platform  
+- ⚡ [Intelimasters](#) – Legacy PHP modernization project  
+- 🎮 [Game Hub](https://github.com/MahmoudAleek/game-hub) – TypeScript + React gaming portal  
+
+---
+
+## 📊 GitHub Stats
+![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAleek&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 📧 **mahmoudaleek99@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
