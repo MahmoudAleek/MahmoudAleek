@@ -28,4 +28,4 @@
 
 ## 📫 Connect with Me
 - 📧 **mahmoudaleek99@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahmoudaleek/)  
